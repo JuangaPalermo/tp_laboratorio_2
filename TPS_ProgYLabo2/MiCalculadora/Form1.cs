@@ -27,6 +27,13 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
+            if (this.CBOperador.SelectedItem == null)
+            {
+                
+                this.CBOperador.Text = "+";
+
+            }
+
             this.LabelResultado.Text = Convert.ToString(Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.CBOperador.Text));
         }
 
@@ -60,6 +67,7 @@ namespace MiCalculadora
             this.txtNumero1.Clear();
             this.txtNumero2.Clear();
             this.CBOperador.ResetText();
+            this.CBOperador.Text = null;
             this.LabelResultado.Text = null;
         }
 
@@ -72,5 +80,10 @@ namespace MiCalculadora
         }
 
         #endregion
+
+        private void txtNumero1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

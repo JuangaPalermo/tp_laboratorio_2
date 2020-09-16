@@ -47,6 +47,7 @@
             this.txtNumero1.Size = new System.Drawing.Size(102, 30);
             this.txtNumero1.TabIndex = 0;
             this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtNumero1.TextChanged += new System.EventHandler(this.txtNumero1_TextChanged);
             // 
             // LabelResultado
             // 

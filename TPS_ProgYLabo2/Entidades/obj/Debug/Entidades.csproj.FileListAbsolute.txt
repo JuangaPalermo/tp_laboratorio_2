@@ -4,3 +4,9 @@ C:\Users\juang\source\repos\Palermo.JuanGabriel\Entidades\obj\Debug\Entidades.cs
 C:\Users\juang\source\repos\Palermo.JuanGabriel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\juang\source\repos\Palermo.JuanGabriel\Entidades\obj\Debug\Entidades.dll
 C:\Users\juang\source\repos\Palermo.JuanGabriel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\bin\Debug\Entidades.dll
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.dll
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.pdb
