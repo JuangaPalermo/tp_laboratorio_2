@@ -1,6 +1,6 @@
 ﻿namespace MiCalculadora
 {
-    partial class Form1
+    partial class FormCalculador
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -47,7 +47,6 @@
             this.txtNumero1.Size = new System.Drawing.Size(102, 30);
             this.txtNumero1.TabIndex = 0;
             this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtNumero1.TextChanged += new System.EventHandler(this.txtNumero1_TextChanged);
             // 
             // LabelResultado
             // 
@@ -140,7 +139,7 @@
             this.btnConvertirADecimal.UseVisualStyleBackColor = true;
             this.btnConvertirADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
-            // Form1
+            // FormCalculador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -158,7 +157,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "FormCalculador";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Juan Palermo del curso 2ºA";
             this.ResumeLayout(false);

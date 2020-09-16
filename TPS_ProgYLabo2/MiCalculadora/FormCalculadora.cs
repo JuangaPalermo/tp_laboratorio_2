@@ -12,10 +12,10 @@ using Entidades;
 
 namespace MiCalculadora
 {
-    public partial class Form1 : Form
+    public partial class FormCalculador : Form
     {
         #region FIELDS
-        public Form1()
+        public FormCalculador()
         {
             InitializeComponent();
         }
@@ -44,7 +44,7 @@ namespace MiCalculadora
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-            if (this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != null)
+            if (this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != "")
             {
                 this.LabelResultado.Text = Numero.DecimalBinario(Convert.ToDouble(this.LabelResultado.Text));                
             }
@@ -52,7 +52,7 @@ namespace MiCalculadora
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-            if(this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != null)
+            if(this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != "")
             {
                 this.LabelResultado.Text = Numero.BinarioDecimal(this.LabelResultado.Text);
             }
@@ -81,9 +81,5 @@ namespace MiCalculadora
 
         #endregion
 
-        private void txtNumero1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -17,10 +17,10 @@ C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\bin\De
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\bin\Debug\Entidades.pdb
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
-C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculador.resources
