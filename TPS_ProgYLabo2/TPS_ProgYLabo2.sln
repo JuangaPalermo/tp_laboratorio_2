@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "TP1\MiCalc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP1", "TP1", "{E8286158-E7C3-4AC7-9EC4-ABC8E02AC40A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP2", "TP2", "{E126B194-0C44-44CA-BC46-C93E954C743C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
