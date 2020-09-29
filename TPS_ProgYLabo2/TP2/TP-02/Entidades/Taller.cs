@@ -9,10 +9,16 @@ namespace Entidades
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
-    public class Taller
+    public sealed class Taller
     {
+
+        #region Atributos
+
         List<Vehiculo> vehiculos;
         int espacioDisponible;
+
+        #endregion
+
         public enum ETipo
         {
             Moto, Automovil, Camioneta, Todos

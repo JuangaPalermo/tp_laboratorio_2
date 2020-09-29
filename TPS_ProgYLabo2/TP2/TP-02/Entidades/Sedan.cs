@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace Entidades
 {
-    class Sedan : Vehiculo
+    public class Sedan : Vehiculo
     {
 
         #region Enumerados
@@ -76,7 +76,7 @@ namespace Entidades
         /// <summary>
         /// Genera un StringBuilder con los datos de la SEDAN y lo transforma en String
         /// </summary>
-        /// <returns>Devuelve esos datos en un string</returns>
+        /// <returns>Devuelve el string con los datos</returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
