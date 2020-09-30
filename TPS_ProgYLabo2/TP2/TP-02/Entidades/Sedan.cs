@@ -16,8 +16,7 @@ namespace Entidades
         public enum ETipo 
         { 
             CuatroPuertas, 
-            CincoPuertas,
-            MonoVolumen
+            CincoPuertas
         }
 
         #endregion
@@ -46,7 +45,7 @@ namespace Entidades
         #region Constructor
 
         /// <summary>
-        /// Por defecto, TIPO será Monovolumen
+        /// Por defecto, TIPO será CuatroPuertas (modificacion charla via Slack)
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
@@ -54,7 +53,7 @@ namespace Entidades
         public Sedan(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
-            this.tipo = ETipo.MonoVolumen;
+            this.tipo = ETipo.CuatroPuertas;
         }
 
         #endregion
@@ -83,7 +82,8 @@ namespace Entidades
 
             sb.AppendLine("SEDAN");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine($"TAMAÑO : {this.Tamanio}TIPO : {this.tipo}");
+            sb.AppendLine($"TAMAÑO : {this.Tamanio}");
+            sb.AppendLine($"TIPO : {this.tipo}");
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
