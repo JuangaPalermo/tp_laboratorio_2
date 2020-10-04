@@ -45,7 +45,8 @@ namespace TP_02_2018
             Console.ReadKey();
             Console.Clear();
 
-            // Quito 2 items y muestro
+            // Quito 2 items y muestro (se modifica main, el ejemplo dado solo quitaba 1, pero comentarios dice que?
+            //                          se quitan dos items).
             taller -= c1;
             taller -= c2;
 

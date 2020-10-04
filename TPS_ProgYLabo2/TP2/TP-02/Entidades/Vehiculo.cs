@@ -118,6 +118,8 @@ namespace Entidades
             return !(v1.chasis == v2.chasis);
         }
 
+        //NO SE INVALIDA EQUALS NI HASHCODE DEBIDO A QUE NO SE PIDE EN EL DIAGRAMA DE CLASE
+
         #endregion
     }
 }

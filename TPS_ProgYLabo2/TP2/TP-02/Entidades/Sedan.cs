@@ -68,7 +68,7 @@ namespace Entidades
         /// <param name="color"></param>
         /// <param name="tipo"></param>
         public Sedan(EMarca marca, string chasis, ConsoleColor color, ETipo tipo) 
-            : base (marca, chasis, color)
+            : base (chasis, marca, color)
         {
             this.tipo = tipo;
         }
