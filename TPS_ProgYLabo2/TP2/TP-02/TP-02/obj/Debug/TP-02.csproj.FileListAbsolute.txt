@@ -31,3 +31,13 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgY
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb

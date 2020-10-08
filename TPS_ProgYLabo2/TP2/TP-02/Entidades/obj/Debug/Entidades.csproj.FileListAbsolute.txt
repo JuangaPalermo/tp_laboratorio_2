@@ -17,3 +17,9 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgY
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\bin\Debug\Entidades.dll
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
