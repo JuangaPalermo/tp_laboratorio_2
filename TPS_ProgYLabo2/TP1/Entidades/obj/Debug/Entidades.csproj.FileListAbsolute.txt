@@ -10,3 +10,9 @@ C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.dll
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\Entidades\obj\Debug\Entidades.pdb

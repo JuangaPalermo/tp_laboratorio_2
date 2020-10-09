@@ -24,3 +24,16 @@ C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\De
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.pdb
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculador.resources
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculador.resources
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\juang\Desktop\tp_laboratorio_2\TPS_ProgYLabo2\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
