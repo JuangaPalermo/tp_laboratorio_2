@@ -21,7 +21,13 @@ namespace Entidades
         /// <summary>
         /// Setter de numero, realiza validacion.
         /// </summary>
-        public string SetNumero { set => numero = ValidarNumero(value); }
+        public string SetNumero {
+            set
+            {
+                numero = ValidarNumero(value);
+            }
+            
+        }
 
         #endregion
 
@@ -94,9 +100,9 @@ namespace Entidades
             }
             else
             {
-                string castedNumber = ((int)numero).ToString();
+                string castedNumber = Math.Abs(numero).ToString();
 
-                return Convert.ToString(Convert.ToInt32(castedNumber, 10), 2);
+                return Convert.ToString(Convert.ToInt32(castedNumber), 2);
             }  
             
         }

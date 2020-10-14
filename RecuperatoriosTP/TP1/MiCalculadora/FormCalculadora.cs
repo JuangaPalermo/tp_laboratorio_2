@@ -22,21 +22,21 @@ namespace MiCalculadora
         }
 
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            if (this.CBOperador.SelectedItem == null)
+            if (this.cmbOperador.Text != "-" && this.cmbOperador.Text != "/" && this.cmbOperador.Text != "*")
             {
                 
-                this.CBOperador.Text = "+";
+                this.cmbOperador.Text = "+";
 
             }
 
-            this.LabelResultado.Text = Convert.ToString(Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.CBOperador.Text));
+            this.lblResultado.Text = Convert.ToString(Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text));
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -46,17 +46,25 @@ namespace MiCalculadora
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-            if (this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != "")
+            if(this.lblResultado.Text == Double.MinValue.ToString())
             {
-                this.LabelResultado.Text = Numero.DecimalBinario(Convert.ToDouble(this.LabelResultado.Text));                
+                this.lblResultado.Text = Numero.DecimalBinario(Double.MinValue);
             }
+            else
+            {
+                if (this.lblResultado.Text != "Valor invalido" && this.lblResultado.Text != "")
+                {
+                    this.lblResultado.Text = Numero.DecimalBinario(Convert.ToDouble(this.lblResultado.Text));
+                }
+            }
+            
         }
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-            if(this.LabelResultado.Text != "Valor invalido" && this.LabelResultado.Text != "")
+            if(this.lblResultado.Text != "Valor invalido" && this.lblResultado.Text != "")
             {
-                this.LabelResultado.Text = Numero.BinarioDecimal(this.LabelResultado.Text);
+                this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
             }
         }
 
@@ -71,7 +79,7 @@ namespace MiCalculadora
 
         private void FormCalculador_FormClosing(object sender, FormClosingEventArgs e)
         {
-            DialogResult rta = MessageBox.Show("¿Está seguro de salir?", "Atención",
+            DialogResult rta = MessageBox.Show("¿Seguro de querer salir?", "Salir",
                                                 MessageBoxButtons.YesNo, MessageBoxIcon.Question,
                                                 MessageBoxDefaultButton.Button2);
 
@@ -93,9 +101,9 @@ namespace MiCalculadora
         {
             this.txtNumero1.Clear();
             this.txtNumero2.Clear();
-            this.CBOperador.ResetText();
-            this.CBOperador.Text = null;
-            this.LabelResultado.Text = null;
+            this.cmbOperador.ResetText();
+            this.cmbOperador.Text = null;
+            this.lblResultado.Text = null;
         }
 
         public static double Operar(string numero1, string numero2, string operador)

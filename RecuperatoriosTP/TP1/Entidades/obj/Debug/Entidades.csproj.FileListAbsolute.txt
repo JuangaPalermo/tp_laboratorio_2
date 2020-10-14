@@ -10,3 +10,9 @@ C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.dll
 C:\Users\juang\source\repos\tp_laboratorio_2\TPS_ProgYLabo2\Entidades\obj\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.pdb

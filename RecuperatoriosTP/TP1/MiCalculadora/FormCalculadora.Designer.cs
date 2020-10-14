@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.txtNumero1 = new System.Windows.Forms.TextBox();
-            this.LabelResultado = new System.Windows.Forms.Label();
-            this.CBOperador = new System.Windows.Forms.ComboBox();
+            this.lblResultado = new System.Windows.Forms.Label();
+            this.cmbOperador = new System.Windows.Forms.ComboBox();
             this.txtNumero2 = new System.Windows.Forms.TextBox();
             this.btnOperar = new System.Windows.Forms.Button();
             this.btnLimpiar = new System.Windows.Forms.Button();
@@ -48,32 +48,32 @@
             this.txtNumero1.TabIndex = 0;
             this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // LabelResultado
+            // lblResultado
             // 
-            this.LabelResultado.BackColor = System.Drawing.Color.Gainsboro;
-            this.LabelResultado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.LabelResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.LabelResultado.Location = new System.Drawing.Point(27, 26);
-            this.LabelResultado.Name = "LabelResultado";
-            this.LabelResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.LabelResultado.Size = new System.Drawing.Size(447, 41);
-            this.LabelResultado.TabIndex = 1;
-            this.LabelResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblResultado.BackColor = System.Drawing.Color.Gainsboro;
+            this.lblResultado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.lblResultado.Location = new System.Drawing.Point(27, 26);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lblResultado.Size = new System.Drawing.Size(447, 41);
+            this.lblResultado.TabIndex = 1;
+            this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // CBOperador
+            // cmbOperador
             // 
-            this.CBOperador.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.CBOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CBOperador.FormattingEnabled = true;
-            this.CBOperador.Items.AddRange(new object[] {
+            this.cmbOperador.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.cmbOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbOperador.FormattingEnabled = true;
+            this.cmbOperador.Items.AddRange(new object[] {
             "+",
             "-",
             "/",
             "*"});
-            this.CBOperador.Location = new System.Drawing.Point(199, 96);
-            this.CBOperador.Name = "CBOperador";
-            this.CBOperador.Size = new System.Drawing.Size(111, 33);
-            this.CBOperador.TabIndex = 2;
+            this.cmbOperador.Location = new System.Drawing.Point(199, 96);
+            this.cmbOperador.Name = "cmbOperador";
+            this.cmbOperador.Size = new System.Drawing.Size(111, 33);
+            this.cmbOperador.TabIndex = 2;
             // 
             // txtNumero2
             // 
@@ -115,7 +115,7 @@
             this.btnCerrar.TabIndex = 6;
             this.btnCerrar.Text = "Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
-            this.btnCerrar.Click += new System.EventHandler(this.button3_Click);
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // btnConvertirABinario
             // 
@@ -151,8 +151,8 @@
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnOperar);
             this.Controls.Add(this.txtNumero2);
-            this.Controls.Add(this.CBOperador);
-            this.Controls.Add(this.LabelResultado);
+            this.Controls.Add(this.cmbOperador);
+            this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.txtNumero1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -170,8 +170,8 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtNumero1;
-        private System.Windows.Forms.Label LabelResultado;
-        private System.Windows.Forms.ComboBox CBOperador;
+        private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.ComboBox cmbOperador;
         private System.Windows.Forms.TextBox txtNumero2;
         private System.Windows.Forms.Button btnOperar;
         private System.Windows.Forms.Button btnLimpiar;
