@@ -4,9 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases_Instanciables
+namespace EntidadesInstanciables
 {
     public class Universidad
     {
+        #region enumerados
+
+        public enum EClases
+        {
+            Programacion,
+            Laboratorio,
+            Legislacion,
+            SPD
+        }
+
+        #endregion
     }
 }

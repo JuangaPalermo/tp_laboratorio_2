@@ -4,3 +4,6 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_labo
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete

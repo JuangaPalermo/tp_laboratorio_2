@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Excepciones;
 
-namespace Clases_Abstractas
+namespace EntidadesAbstractas
 {
     public abstract class Persona
     {
@@ -74,14 +74,20 @@ namespace Clases_Abstractas
 
         #region CONSTRUCTORES
 
+        /// <summary>
+        /// Constructor de la clase persona.
+        /// </summary>
         public Persona()
         {
-            this.apellido = "";
-            this.dni = -1;
-            this.nacionalidad = ENacionalidad.Argentino;
-            this.nombre = "";
+            this.apellido = default;
+            this.dni = default;
+            this.nacionalidad = default;
+            this.nombre = default;
         }
 
+        /// <summary>
+        /// Constructor de la clase persona.
+        /// </summary>
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad) 
             : this()
         {
@@ -90,12 +96,18 @@ namespace Clases_Abstractas
             this.nacionalidad = nacionalidad;
         }
 
+        /// <summary>
+        /// Constructor de la clase persona.
+        /// </summary>
         public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad)
             : this(nombre,apellido,nacionalidad)
         {
             this.DNI = dni;
         }
 
+        /// <summary>
+        /// Constructor de la clase persona.
+        /// </summary>
         public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             : this(nombre,apellido,nacionalidad)
         {
@@ -106,6 +118,12 @@ namespace Clases_Abstractas
 
         #region METODOS
 
+        /// <summary>
+        /// Valida el dato recibido en el segundo parametro, con respecto a su formato y a la nacionalidad que se indica
+        /// </summary>
+        /// <param name="nacionalidad">nacionalidad de la persona</param>
+        /// <param name="dato">numero de DNI en formato int</param>
+        /// <returns>DNI validado en formato int, de lo contrario, mensaje de error</returns>
         int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
             int returnValue;
@@ -164,7 +182,7 @@ namespace Clases_Abstractas
 
             if(ok)
             {
-                returnValue = auxDato;
+                returnValue = ValidarDni(nacionalidad, auxDato);
             }
             else
             {
