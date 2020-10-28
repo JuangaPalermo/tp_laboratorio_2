@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EntidadesInstanciables
+namespace Clases_Instanciables
 {
     public class Universidad
     {

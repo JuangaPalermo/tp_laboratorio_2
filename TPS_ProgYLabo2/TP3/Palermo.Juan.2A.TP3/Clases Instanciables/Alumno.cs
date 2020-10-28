@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntidadesAbstractas;
+using Clases_Abstractas;
 
-namespace EntidadesInstanciables
+namespace Clases_Instanciables
 {
     public sealed class Alumno : Universitario
     {
@@ -26,7 +26,7 @@ namespace EntidadesInstanciables
         { }
 
         /// <summary>
-        /// Constructor de la clase Alumno
+        /// Constructor parametrizado de la clase Alumno
         /// </summary>
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma)
             :base(id, nombre, apellido, dni, nacionalidad)
@@ -35,7 +35,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Constructor de la clase Alumno
+        /// Constructor parametrizado de la clase Alumno
         /// </summary>
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma, EEstadoCuenta estadoCuenta)
             :this(id, nombre, apellido, dni, nacionalidad, claseQueToma)

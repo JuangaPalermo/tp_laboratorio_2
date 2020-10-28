@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Excepciones;
 
-namespace EntidadesAbstractas
+namespace Clases_Abstractas
 {
     public abstract class Persona
     {

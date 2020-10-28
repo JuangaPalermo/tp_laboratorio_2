@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Excepciones
 {
-    class ArchivosException : Exception
+    public class ArchivosException : Exception
     {
+        public ArchivosException()
+            :base()
+        {
+
+        }
+        
+        public ArchivosException(Exception e)
+            :base(e.Message)
+        {
+
+        }
     }
 }
