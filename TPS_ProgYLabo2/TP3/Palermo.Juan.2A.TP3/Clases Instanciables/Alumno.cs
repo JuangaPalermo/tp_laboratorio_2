@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clases_Abstractas;
+using EntidadesAbstractas;
 
 namespace Clases_Instanciables
 {
@@ -28,6 +28,12 @@ namespace Clases_Instanciables
         /// <summary>
         /// Constructor parametrizado de la clase Alumno
         /// </summary>
+        /// <param name="id"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
+        /// <param name="claseQueToma"></param>
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma)
             :base(id, nombre, apellido, dni, nacionalidad)
         {
@@ -35,8 +41,15 @@ namespace Clases_Instanciables
         }
 
         /// <summary>
-        /// Constructor parametrizado de la clase Alumno
+        /// Constructor parametrizado de la clase Alumno (con el estado de la cuenta del mismo)
         /// </summary>
+        /// <param name="id"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
+        /// <param name="claseQueToma"></param>
+        /// <param name="estadoCuenta"></param>
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma, EEstadoCuenta estadoCuenta)
             :this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
         {
@@ -56,8 +69,8 @@ namespace Clases_Instanciables
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine(base.MostrarDatos());
-            sb.AppendLine($"ESTADO DE CUENTA: {this.estadoCuenta}");
-            sb.AppendLine(ParticiparEnClase());
+            sb.AppendFormat($"\nESTADO DE CUENTA: {this.estadoCuenta}\n");
+            sb.AppendLine(this.ParticiparEnClase());
 
             return sb.ToString();
         }

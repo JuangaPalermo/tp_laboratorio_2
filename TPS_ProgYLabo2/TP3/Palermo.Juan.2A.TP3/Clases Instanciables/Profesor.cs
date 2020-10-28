@@ -1,4 +1,4 @@
-﻿using Clases_Abstractas;
+﻿using EntidadesAbstractas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,21 +30,24 @@ namespace Clases_Instanciables
         /// Constructor de la clase Profesor
         /// </summary>
         public Profesor()
+            :base()
         {
-            clasesDelDia = new Queue<Universidad.EClases>();
-
-            _randomClases();
-            _randomClases();
+           
         }
 
         /// <summary>
         /// Constructor parametrizado de la clase Profesor
         /// </summary>
+        /// <param name="id"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             :base(id, nombre, apellido, dni, nacionalidad)
         {
-            Profesor aux = new Profesor();
-            this.clasesDelDia = aux.clasesDelDia;
+            this.clasesDelDia = new Queue<Universidad.EClases>();
+            _randomClases();
         }
 
 
@@ -57,7 +60,10 @@ namespace Clases_Instanciables
         /// </summary>
         private void _randomClases()
         {
-            this.clasesDelDia.Enqueue((Universidad.EClases)Enum.Parse(typeof(Universidad.EClases), random.Next(0, 4).ToString()));
+            for(int i = 0; i < 2; i++)
+            {
+                this.clasesDelDia.Enqueue((Universidad.EClases)Enum.Parse(typeof(Universidad.EClases), random.Next(0, 3).ToString()));
+            }            
         }
 
         /// <summary>
@@ -84,7 +90,7 @@ namespace Clases_Instanciables
 
             sb.AppendLine("CLASES DEL DIA:");
 
-            foreach (Universidad.EClases item in clasesDelDia)
+            foreach (Universidad.EClases item in this.clasesDelDia)
             {
                 sb.AppendLine(item.ToString());
             }

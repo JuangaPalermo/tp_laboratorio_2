@@ -1,0 +1,16 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Main.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Main.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Main.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Archivos.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Clases Abstractas.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Clases Instanciables.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Excepciones.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Archivos.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Clases Abstractas.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Clases Instanciables.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\bin\Debug\Excepciones.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\obj\Debug\Main.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Main\obj\Debug\Main.pdb

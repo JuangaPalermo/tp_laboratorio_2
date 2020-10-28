@@ -31,17 +31,20 @@
       <FileName>Profesor.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Clases_Instanciables.Universidad" Collapsed="true">
-    <Position X="12" Y="0.5" Width="1.5" />
+  <Class Name="Clases_Instanciables.Universidad">
+    <Position X="8" Y="4.75" Width="5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
     <NestedTypes>
-      <Enum Name="Clases_Instanciables.Universidad.EClases" Collapsed="true">
+      <Enum Name="Clases_Instanciables.Universidad.EClases">
         <TypeIdentifier>
           <NewMemberFileName>Universidad.cs</NewMemberFileName>
         </TypeIdentifier>
       </Enum>
     </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAgAEyAAAAAgAAgAAAAAAIIEABAAAAiA=</HashCode>
       <FileName>Universidad.cs</FileName>
     </TypeIdentifier>
   </Class>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases_Abstractas
+namespace EntidadesAbstractas
 {
     public abstract class Universitario : Persona
     {
@@ -17,8 +17,13 @@ namespace Clases_Abstractas
         #region constructores
 
         /// <summary>
-        /// Constructor de la clase Universitario.
+        /// Constructor parametrizado de la clase Universitario
         /// </summary>
+        /// <param name="legajo"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Universitario(int legajo, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             :base(nombre, apellido, dni, nacionalidad)
         {
@@ -31,7 +36,7 @@ namespace Clases_Abstractas
         public Universitario()
             :base()
         {
-            this.legajo = default;
+
         }
 
         #endregion
@@ -47,11 +52,15 @@ namespace Clases_Abstractas
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine(base.ToString());
-            sb.AppendFormat($"LEGAJO NÚMERO: {this.legajo}\n");
+            sb.AppendFormat($"LEGAJO NÚMERO: {this.legajo}");
 
             return sb.ToString();
         }
 
+        /// <summary>
+        /// Firma del metodo abstracto.
+        /// </summary>
+        /// <returns></returns>
         protected abstract string ParticiparEnClase();
 
         #endregion
@@ -59,24 +68,30 @@ namespace Clases_Abstractas
         #region sobrecargas
 
         /// <summary>
-        /// Sobrecarga de Equals, compara objetos de tipo Universitario
+        /// Sobrecarga de Equals, comparara el tipo de ambos objetos
         /// </summary>
         /// <param name="obj">objeto a comparar</param>
-        /// <returns>true si son iguales, de lo contrario, false</returns>
+        /// <returns>true si son del mismo tipo, de lo contrario, false</returns>
         public override bool Equals(object obj)
         {
-            return obj is Universitario && (Universitario)obj == this;
+            bool resultado = false;
+
+            if(ReferenceEquals(this.GetType(), obj.GetType()))
+            {
+                resultado = true;
+            }
+            return resultado;
         }
 
         /// <summary>
-        /// Sobrecarga del ==, compara a dos objetos de clase universitario por su tipo y legajo o su tipo y dni.
+        /// Sobrecarga del ==, compara a dos objetos de clase universitario por su tipo y legajo o tipo y dni.
         /// </summary>
         /// <param name="pg1">primer objeto a comparar</param>
         /// <param name="pg2">segundo objeto a comparar</param>
         /// <returns>true si son iguales, false si son diferentes</returns>
         public static bool operator == (Universitario pg1, Universitario pg2)
         {
-            return pg1.GetType() == pg2.GetType() && (pg1.legajo == pg2.legajo || pg1.DNI == pg2.DNI);
+            return pg1.Equals(pg2) && (pg1.legajo == pg2.legajo || pg1.DNI == pg2.DNI);
         }
 
         /// <summary>

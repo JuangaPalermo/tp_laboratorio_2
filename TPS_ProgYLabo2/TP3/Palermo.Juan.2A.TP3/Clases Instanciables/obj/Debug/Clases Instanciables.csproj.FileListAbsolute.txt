@@ -1,2 +1,13 @@
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP3\Palermo.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

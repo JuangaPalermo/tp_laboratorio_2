@@ -5,11 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 using Excepciones;
 
-namespace Clases_Abstractas
+namespace EntidadesAbstractas
 {
     public abstract class Persona
     {
-        #region ATRIBUTOS
+        #region enumerados
+
+        /// <summary>
+        /// Enumerado de Nacionalidad
+        /// </summary>
+        public enum ENacionalidad
+        {
+            Argentino,
+            Extranjero
+        }
+
+        #endregion
+
+        #region atributos
 
         string apellido;        
         int dni;
@@ -18,8 +31,11 @@ namespace Clases_Abstractas
 
         #endregion
 
-        #region PROPIEDADES
+        #region propiedades
 
+        /// <summary>
+        /// Propiedad de lectura y escritura: Apellido
+        /// </summary>
         public string Apellido
         {
             get 
@@ -31,6 +47,10 @@ namespace Clases_Abstractas
                 this.apellido = ValidarNombreApellido(value); 
             }
         }
+
+        /// <summary>
+        /// Propiedad de lectura y escritura: DNI
+        /// </summary>
         public int DNI
         {
             get 
@@ -43,6 +63,9 @@ namespace Clases_Abstractas
             }
         }
 
+        /// <summary>
+        /// Propiedad de lectura y escritura: Nacionalidad
+        /// </summary>
         public ENacionalidad Nacionalidad
         {
             get
@@ -55,12 +78,24 @@ namespace Clases_Abstractas
             }
         }
 
+        /// <summary>
+        /// Propiedad de lectura y escritura: Nombre
+        /// </summary>
         public string Nombre
         {
-            get { return this.nombre; }
-            set { this.nombre = ValidarNombreApellido(value); }
+            get
+            { 
+                return this.nombre; 
+            }
+            set 
+            {
+                this.nombre = ValidarNombreApellido(value);
+            }
         }
 
+        /// <summary>
+        /// Propiedad de escritura: StringToDNI
+        /// </summary>
         public string StringToDNI
         {
             set
@@ -72,33 +107,37 @@ namespace Clases_Abstractas
 
         #endregion
 
-        #region CONSTRUCTORES
+        #region constructores
 
         /// <summary>
         /// Constructor de la clase persona.
         /// </summary>
         public Persona()
         {
-            this.apellido = default;
-            this.dni = default;
-            this.nacionalidad = default;
-            this.nombre = default;
+
         }
 
         /// <summary>
-        /// Constructor de la clase persona.
+        /// Constructor parametrizado de la clase Persona
         /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad) 
             : this()
         {
-            this.nombre = ValidarNombreApellido(nombre);
-            this.apellido = ValidarNombreApellido(apellido);
-            this.nacionalidad = nacionalidad;
+            this.Nombre = nombre;
+            this.Apellido = apellido;
+            this.Nacionalidad = nacionalidad;
         }
 
         /// <summary>
-        /// Constructor de la clase persona.
+        /// Constructor parametrizado de la clase persona, con dni de tipo entero.
         /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad)
             : this(nombre,apellido,nacionalidad)
         {
@@ -106,8 +145,12 @@ namespace Clases_Abstractas
         }
 
         /// <summary>
-        /// Constructor de la clase persona.
+        /// Constructor parametrizado de la clase persona, con dni tipo string.
         /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             : this(nombre,apellido,nacionalidad)
         {
@@ -116,7 +159,7 @@ namespace Clases_Abstractas
 
         #endregion
 
-        #region METODOS
+        #region metodos
 
         /// <summary>
         /// Valida el dato recibido en el segundo parametro, con respecto a su formato y a la nacionalidad que se indica
@@ -148,6 +191,11 @@ namespace Clases_Abstractas
             return returnValue;
         }
 
+        /// <summary>
+        /// Valida la cadena de caracteres que recibe, chequeando que pertenezca a alguna categoria de letras Unicode
+        /// </summary>
+        /// <param name="dato">cadena de caracteres a validar</param>
+        /// <returns>La cadena validada. En caso de que tenga caracteres incorrectos, entonces devuelve una cadena vacia.</returns>
         string ValidarNombreApellido(string dato)
         {
             bool aux = true;
@@ -170,8 +218,14 @@ namespace Clases_Abstractas
 
         #endregion
 
-        #region SOBRECARGAS
+        #region sobrecargas
 
+        /// <summary>
+        /// Valida el dato recibido en el segundo parametro, con respecto a su formato y a la nacionalidad que se indica
+        /// </summary>
+        /// <param name="nacionalidad">nacionalidad de la persona</param>
+        /// <param name="dato">numero de DNI en formato string</param>
+        /// <returns>DNI validado en formato int, de lo contrario, mensaje de error</returns>
         int ValidarDni (ENacionalidad nacionalidad, string dato)
         {
             int auxDato;
@@ -192,6 +246,10 @@ namespace Clases_Abstractas
             return returnValue;
         }
 
+        /// <summary>
+        /// Sobrecarga del ToString(), devuelve el nombre, apellido, y nacionalidad de la Persona en formato string
+        /// </summary>
+        /// <returns>Datos de la persona (nombre apellido y nacionalidad) como string.</returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -202,14 +260,6 @@ namespace Clases_Abstractas
         }
         #endregion
 
-        #region ENUMERADOS
 
-        public enum ENacionalidad
-        {
-            Argentino,
-            Extranjero
-        }
-
-        #endregion
     }
 }

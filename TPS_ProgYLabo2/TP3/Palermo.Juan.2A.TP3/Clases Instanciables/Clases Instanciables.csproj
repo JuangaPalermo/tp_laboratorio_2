@@ -56,6 +56,10 @@
       <Project>{f4f7dd7c-1a42-4ad5-b92c-80b2bba26ccb}</Project>
       <Name>Clases Abstractas</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{e65750d0-746c-4a04-98ba-05caa12c764b}</Project>
+      <Name>Excepciones</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
