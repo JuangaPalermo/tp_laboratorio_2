@@ -164,7 +164,7 @@ namespace Clases_Instanciables
             }
             catch (Exception e)
             {
-                throw new ArchivosException(e.InnerException);
+                throw new ArchivosException(e);
             }
             
             return auxUni;
@@ -253,7 +253,7 @@ namespace Clases_Instanciables
             {
                 if(item == clase)
                 {
-                    return item;
+                    auxProf = item;
                 }
             }
 

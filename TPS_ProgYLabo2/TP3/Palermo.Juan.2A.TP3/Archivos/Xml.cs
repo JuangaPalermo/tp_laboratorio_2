@@ -33,7 +33,7 @@ namespace Archivos
             catch (Exception e)
             {
                 resultado = false;
-                throw new ArchivosException(e.InnerException);
+                throw new ArchivosException(e);
             }
 
             return resultado;
@@ -61,7 +61,7 @@ namespace Archivos
             catch(Exception e)
             {
                 resultado = false;
-                throw new ArchivosException(e.InnerException);
+                throw new ArchivosException(e);
             }
 
             return resultado;

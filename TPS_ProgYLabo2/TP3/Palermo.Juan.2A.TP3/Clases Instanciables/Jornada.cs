@@ -125,7 +125,7 @@ namespace Clases_Instanciables
             }
             catch (Exception e)
             {
-                throw new ArchivosException(e.InnerException); 
+                throw new ArchivosException(e); 
             }
             
 
