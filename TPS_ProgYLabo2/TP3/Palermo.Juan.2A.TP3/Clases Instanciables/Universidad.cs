@@ -90,11 +90,25 @@ namespace Clases_Instanciables
         {
             get
             {
-                return jornada[i];
+                if(i >= 0 && i < this.Jornadas.Count)
+                {
+                    return jornada[i];
+                }
+                else
+                {
+                    return null;
+                }
             }
             set
             {
-                jornada[i] = value;
+                if(i >= 0 && i < this.Jornadas.Count)
+                {
+                    jornada[i] = value;
+                }
+                else if (i == this.Jornadas.Count)
+                {
+                    this.Jornadas.Add(value);
+                }
             }
         }
 

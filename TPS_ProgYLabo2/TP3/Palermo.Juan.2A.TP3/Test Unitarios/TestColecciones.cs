@@ -33,5 +33,13 @@ namespace Test_Unitarios
 
             Assert.IsNotNull(universidad.Jornadas);
         }
+
+        [TestMethod]
+        public void TestColeccionAlumnosJornada()
+        {
+            Jornada jornada = new Jornada(Universidad.EClases.Programacion, new Profesor());
+
+            Assert.IsNotNull(jornada.Alumnos);
+        }
     }
 }

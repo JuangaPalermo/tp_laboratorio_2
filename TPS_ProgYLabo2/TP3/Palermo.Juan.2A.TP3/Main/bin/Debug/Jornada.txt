@@ -1,19 +1,26 @@
 ﻿JORNADA: 
-CLASE DE Laboratorio POR NOMBRE COMPLETO: Lopez, Juan
+CLASE DE Programacion POR NOMBRE COMPLETO: Lopez, Juan
 NACIONALIDAD: Argentino
 
 LEGAJO NÚMERO: 1
 CLASES DEL DIA:
 Legislacion
-Laboratorio
+Programacion
 
 ALUMNOS: 
-NOMBRE COMPLETO: Suarez, Joaquin
-NACIONALIDAD: Extranjero
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
 
-LEGAJO NÚMERO: 7
+LEGAJO NÚMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASES DE: Programacion
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
 
 ESTADO DE CUENTA: AlDia
-TOMA CLASES DE: Laboratorio
+TOMA CLASES DE: Programacion
 <------------------------------------------------>
 

@@ -88,10 +88,11 @@ namespace EntidadesAbstractas
         /// </summary>
         /// <param name="pg1">primer objeto a comparar</param>
         /// <param name="pg2">segundo objeto a comparar</param>
+        /// 
         /// <returns>true si son iguales, false si son diferentes</returns>
         public static bool operator == (Universitario pg1, Universitario pg2)
         {
-            return pg1.Equals(pg2) && (pg1.legajo == pg2.legajo || pg1.DNI == pg2.DNI);
+            return (pg1.Equals(pg2) && (pg1.legajo == pg2.legajo || pg1.DNI == pg2.DNI));
         }
 
         /// <summary>

@@ -101,11 +101,14 @@ namespace Clases_Instanciables
         /// <returns>true si se guardo correctamente; si no, false</returns>
         public static bool Guardar(Jornada jornada)
         {
-            bool resultado;
+            bool resultado = false;
 
             Texto aux = new Texto();
 
-            resultado = aux.Guardar("Jornada.txt", jornada.ToString());
+            if(!(jornada is null))
+            {
+                resultado = aux.Guardar("Jornada.txt", jornada.ToString());
+            }           
             
             return resultado;
         }
