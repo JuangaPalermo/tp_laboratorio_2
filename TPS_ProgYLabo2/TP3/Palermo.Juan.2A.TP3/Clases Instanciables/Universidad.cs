@@ -268,6 +268,7 @@ namespace Clases_Instanciables
                 if(item == clase)
                 {
                     auxProf = item;
+                    break;
                 }
             }
 
