@@ -85,7 +85,7 @@ namespace PuntoDeVenta
 
         #endregion
 
-        #region Buttons
+        #region Botones
 
         /// <summary>
         /// Agrega el producto que se selecciona desde el DataTable a la compra, y actualiza el ticket para que muestre los datos
@@ -241,16 +241,16 @@ namespace PuntoDeVenta
                 CargarGrilla();
                 compra = new Compra<Periferico>();
 
-                try
-                {
-                    hiloDataTable = new Thread(this.CargarGrillaHilo);
-                    hiloDataTable.Start();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
 
+            try
+            {
+                hiloDataTable = new Thread(this.CargarGrillaHilo);
+                hiloDataTable.Start();
             }
             catch (Exception ex)
             {
