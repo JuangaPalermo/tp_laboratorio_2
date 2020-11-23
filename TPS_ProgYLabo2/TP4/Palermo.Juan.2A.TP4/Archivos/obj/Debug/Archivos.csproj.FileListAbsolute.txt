@@ -12,3 +12,13 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_labo
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Clases Abstractas.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Clases Instanciables.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Archivos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Archivos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Excepciones.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Archivos\obj\Debug\Archivos.csproj.CopyComplete

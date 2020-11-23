@@ -1,0 +1,10 @@
+﻿PRODUCTO Teclado
+NOMBRE: Prueba Teclado - PRECIO: 123 - MARCA: Gigabyte
+
+PRODUCTO Mouse
+NOMBRE: Prueba Mouse - PRECIO: 456 - MARCA: Gigabyte
+
+------------------------------
+TOTAL: 579
+------------------------------
+

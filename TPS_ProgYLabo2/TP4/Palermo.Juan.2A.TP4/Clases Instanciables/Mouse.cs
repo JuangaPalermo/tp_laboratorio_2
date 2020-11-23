@@ -1,9 +1,4 @@
-﻿using Clases_Abstractas;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace Clases_Instanciables
 {
@@ -12,11 +7,9 @@ namespace Clases_Instanciables
 
         #region propiedades
 
-        public override bool Garantia
-        {
-            get { return true; }
-        }
-
+        /// <summary>
+        /// Propiedad de solo lectura, me devuelve el nombre de la clase (Mouse)
+        /// </summary>
         public string Tipo
         {
             get { return this.GetType().Name; }
@@ -46,19 +39,17 @@ namespace Clases_Instanciables
 
         #endregion
 
-        #region metodos
-
-
-
-        #endregion
-
         #region sobrecargas
 
+        /// <summary>
+        /// sobrescritura del metodo ToString, para que muestre todos los datos del objeto
+        /// </summary>
+        /// <returns>todos los datos del mouse, en formato string</returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"PRODUCTO {this.GetType()}");
+            sb.AppendLine($"PRODUCTO {this.Tipo}");
             sb.Append(base.ToString());
 
             return sb.ToString();

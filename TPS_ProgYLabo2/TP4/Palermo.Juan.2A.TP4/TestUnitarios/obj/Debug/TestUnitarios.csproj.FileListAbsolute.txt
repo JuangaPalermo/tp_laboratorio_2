@@ -1,0 +1,34 @@
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Bases de Datos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Extension.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\PuntoDeVenta.exe
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Archivos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Bases de Datos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Bases de Datos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Extension.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\PuntoDeVenta.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\obj\Debug\TestUnitarios.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\TestUnitarios\bin\Debug\Excepciones.pdb

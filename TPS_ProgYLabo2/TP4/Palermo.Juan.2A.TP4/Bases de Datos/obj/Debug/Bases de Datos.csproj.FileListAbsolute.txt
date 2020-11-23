@@ -4,3 +4,15 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_labo
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.dll
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Bases de Datos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Bases de Datos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Bases de Datos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Clases Abstractas.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Clases Instanciables.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Clases Abstractas.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\bin\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Bases de Datos\obj\Debug\Bases de Datos.pdb

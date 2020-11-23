@@ -7,3 +7,17 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_labo
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Archivos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\Clases Instanciables\bin\Debug\Excepciones.pdb

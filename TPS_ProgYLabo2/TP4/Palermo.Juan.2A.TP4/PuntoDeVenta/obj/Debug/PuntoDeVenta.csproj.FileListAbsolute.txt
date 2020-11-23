@@ -20,3 +20,29 @@ D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_labo
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Abstractas.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Instanciables.pdb
 D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Trabajos Practicos\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Archivos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Bases de Datos.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Abstractas.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Instanciables.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Archivos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Archivos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Bases de Datos.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Abstractas.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Clases Instanciables.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojAssemblyReference.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.NuevoProducto.resources
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.PuntoDeVenta.resources
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Bases de Datos.dll.config
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Extension.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Extension.pdb
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Excepciones.dll
+C:\Users\juang\Desktop\edits\tp_laboratorio_2\TPS_ProgYLabo2\TP4\Palermo.Juan.2A.TP4\PuntoDeVenta\bin\Debug\Excepciones.pdb

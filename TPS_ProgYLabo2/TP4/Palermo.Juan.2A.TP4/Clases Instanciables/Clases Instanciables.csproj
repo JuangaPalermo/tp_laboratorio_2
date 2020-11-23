@@ -42,12 +42,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Compra.cs" />
-    <Compile Include="Deposito.cs" />
     <Compile Include="Mouse.cs" />
+    <Compile Include="Periferico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Teclado.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{df77bf1c-7067-4d8f-a34e-5051058bf8b6}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Clases Abstractas\Clases Abstractas.csproj">
       <Project>{b758019f-d5cb-49fb-931b-86300be80226}</Project>
       <Name>Clases Abstractas</Name>

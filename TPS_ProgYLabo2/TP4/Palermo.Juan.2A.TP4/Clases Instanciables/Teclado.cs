@@ -1,9 +1,4 @@
-﻿using Clases_Abstractas;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace Clases_Instanciables
 {
@@ -11,14 +6,21 @@ namespace Clases_Instanciables
     {
 
         #region propiedades
-        public override bool Garantia
-        {
-            get { return true; }
-        }
 
+        /// <summary>
+        /// Propiedad de solo lectura, me devuelve el nombre de la clase (Teclado)
+        /// </summary>
         public string Tipo
         {
             get { return this.GetType().Name; }
+        }
+
+        /// <summary>
+        /// sobrescribe la propiedad Garantia de periferico, asignandole false.
+        /// </summary>
+        public override bool Garantia
+        {
+            get { return false; }
         }
 
 
@@ -44,18 +46,17 @@ namespace Clases_Instanciables
 
         #endregion
 
-        #region metodos
-
-
-        #endregion
-
         #region sobrecargas
 
+        /// <summary>
+        /// Sobrescritura del ToString. Devuelve todos los datos del teclado en formato string
+        /// </summary>
+        /// <returns>los datos del teclado en formato string</returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"PRODUCTO {this.GetType()}");
+            sb.AppendLine($"PRODUCTO {this.Tipo}");
             sb.Append(base.ToString());
 
             return sb.ToString();

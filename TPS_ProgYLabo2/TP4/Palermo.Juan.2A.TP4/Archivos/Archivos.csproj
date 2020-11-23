@@ -59,17 +59,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Bases de Datos\Bases de Datos.csproj">
-      <Project>{a9ed53b8-57a3-440f-8786-7384a2084735}</Project>
-      <Name>Bases de Datos</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Clases Abstractas\Clases Abstractas.csproj">
-      <Project>{b758019f-d5cb-49fb-931b-86300be80226}</Project>
-      <Name>Clases Abstractas</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Clases Instanciables\Clases Instanciables.csproj">
-      <Project>{d553ce62-d599-497f-a60c-3db11b3fcfeb}</Project>
-      <Name>Clases Instanciables</Name>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{aa8bc24b-405f-4a3e-81d8-7fc830c43c15}</Project>
+      <Name>Excepciones</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

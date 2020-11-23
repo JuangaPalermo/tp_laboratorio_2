@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ListadoProductos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ListadoProductos.Designer.cs">
-      <DependentUpon>ListadoProductos.cs</DependentUpon>
-    </Compile>
     <Compile Include="NuevoProducto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,9 +60,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="ListadoProductos.resx">
-      <DependentUpon>ListadoProductos.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="NuevoProducto.resx">
       <DependentUpon>NuevoProducto.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +104,14 @@
     <ProjectReference Include="..\Clases Instanciables\Clases Instanciables.csproj">
       <Project>{d553ce62-d599-497f-a60c-3db11b3fcfeb}</Project>
       <Name>Clases Instanciables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{aa8bc24b-405f-4a3e-81d8-7fc830c43c15}</Project>
+      <Name>Excepciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Extension\Extension.csproj">
+      <Project>{f5070b68-9398-4331-8cb2-0fd352e3e367}</Project>
+      <Name>Extension</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

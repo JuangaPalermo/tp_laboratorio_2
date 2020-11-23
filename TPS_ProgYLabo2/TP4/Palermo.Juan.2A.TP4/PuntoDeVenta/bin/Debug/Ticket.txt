@@ -1,0 +1,13 @@
+﻿PRODUCTO Teclado
+NOMBRE: G Pro Gaming - PRECIO: 10200 - MARCA: Logitech
+
+PRODUCTO Mouse
+NOMBRE: Aivia Krypton - PRECIO: 6800 - MARCA: Gigabyte
+
+PRODUCTO Mouse
+NOMBRE: PruebaMouse - PRECIO: 123 - MARCA: Gigabyte
+
+------------------------------
+TOTAL: 17123
+------------------------------
+
